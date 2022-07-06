@@ -1,0 +1,47 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.body {
+    background-color: #f3f3f3;
+}
+
+.main {
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.input-texto {
+    margin-top: 90px;
+}
+
+.mensagem {
+    position: relative;
+    margin-top: 20px;
+    margin-left: 90x;
+    background-image: url("/imagens\ curso/");
+
+}
+
+.botoes {
+    display: flex;
+    margin-top: 20px;
+}
+
+.encriptar {
+    background-color: aqua;
+    color: white;
+}
+
+.desencriptar {
+    margin-left: 30px;
+}
+
+
+.informacao {
+    font-size: 15px;
+}

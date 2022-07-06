@@ -1,0 +1,17 @@
+p{
+    border: 3px solid rgb(43, 0, 170);
+    padding: 15px;
+    width: 60%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+div {
+
+    text-align: center;
+}
+
+.jogar{
+    background-color: blue;
+    color:white;
+}
